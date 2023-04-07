@@ -1,0 +1,26 @@
+From 64ec4fea78e75f6d3aa2478523c11d260a4d05a4 Mon Sep 17 00:00:00 2001
+From: andjared <andja.velimirovic@gmail.com>
+Date: Wed, 6 Dec 2023 09:32:25 +0100
+Subject: [PATCH] First update on git_1
+
+---
+ firstFile.txt | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+diff --git a/firstFile.txt b/firstFile.txt
+index 0b669b6..3dccb63 100644
+--- a/firstFile.txt
++++ b/firstFile.txt
+@@ -1,7 +1,7 @@
+ 1
+-2
++2 - update
+ 3
+-4
++4 - update
+ 5
+ 6
+ 7
+-- 
+2.41.0.windows.3
+
